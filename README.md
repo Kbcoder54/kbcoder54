@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kavin Babu</h1>
-<h3 align="center">I am an aspiring coder interested in AI,ML and gaming.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbcoder54&label=Profile%20views&color=0e75b6&style=flat" alt="kbcoder54" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kbcoder54" alt="kbcoder54" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
