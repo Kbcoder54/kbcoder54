@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a game 🎮
+- 🌱 I’m currently learning Rust 🦀
+- 👯 I’m looking to collaborate on open source projects 
 <!--
 **Kbcoder54/kbcoder54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
