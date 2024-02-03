@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbcoder54&label=Profile%20views&color=0e75b6&style=flat" alt="kbcoder54" /> </p>
 <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning Ocaml<br>
 
 
