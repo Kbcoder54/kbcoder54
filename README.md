@@ -9,7 +9,7 @@
 
 # 📊 My GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=kbcoder54&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](#)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=kbcoder54&theme=dark&show_icons=true&locale=en&layout=compact)](#)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=kbcoder54&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact)](#)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
