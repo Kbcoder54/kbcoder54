@@ -1,7 +1,7 @@
 ### KbCoder54
 Just a guy interested in AI,ML, building/maintaining useful projects and ultimately build performant software.
 
-
+<!---
 My Current Skillset:
 * Python (Numpy,pandas,Matplotlib,Pytorch,Flask)
 * SQL
@@ -9,7 +9,7 @@ My Current Skillset:
 * C
 * C++
 * Haskell
-
+--->
 
 <!--- # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbcoder54&label=Profile%20views&color=0e75b6&style=flat" alt="kbcoder54" /> </p>
